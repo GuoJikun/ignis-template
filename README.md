@@ -1,2 +1,1 @@
-# ignis-template
-ignis init 命令的下载模版
+这里是首页
